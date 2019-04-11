@@ -1,0 +1,14 @@
+Input is: apple pie
+With p removed input is: ale ie
+
+Input is: 555number
+With 5 removed input is: number
+
+Input is: 1234 abc %%%
+With % removed input is: 1234 abc
+
+Input is:
+With h removed input is:
+
+Process returned 0 (0x0)   execution time : 0.064 s
+Press any key to continue.
